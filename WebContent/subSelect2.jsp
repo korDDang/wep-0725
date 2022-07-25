@@ -29,6 +29,7 @@ try{
 <table border="1" id="tab1">
 <tr>
 	<th class="th1">no</th>
+	<th class="th1">강사코드</th>
 	<th class="th1">담당강사</th>
 	<th class="th1">과목코드</th>
 	<th class="th1">과목명</th>
